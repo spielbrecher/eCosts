@@ -2,12 +2,12 @@
 	"accounting":{
 		"file" : "accounting.xlsx",
 		"name" : "name",
-		"value" : "value"		
+		"value" : "2"
 	},
     "cadastral":{
 		"file" : "cadastral_value.xlsx",
 		"name" : "name",
-		"value" : "value"		
+		"value" : "2"
 	},
     "construction":{
 		"file" : "construction.xlsx",
@@ -22,12 +22,12 @@
 	"patenting":{
 		"file" : "patenting.xlsx",
 		"name" : "name",
-		"value" : "value"		
+		"value" : "4"
 	},
 	"registration":{
 		"file" : "registration_fee.xlsx",
 		"name" : "name",
-		"value" : "value"		
+		"value" : "2"
 	}	
 	
 }
