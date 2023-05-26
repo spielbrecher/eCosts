@@ -1,0 +1,33 @@
+{
+	"accounting":{
+		"file" : "accounting.xlsx",
+		"name" : "name",
+		"value" : "value"		
+	},
+    "cadastral":{
+		"file" : "cadastral_value.xlsx",
+		"name" : "name",
+		"value" : "value"		
+	},
+    "construction":{
+		"file" : "construction.xlsx",
+		"name" : "name",
+		"value" : "2"		
+	},
+    "machinery":{
+		"file" : "machinery.xlsx",
+		"name" : "name",
+		"value" : "3"		
+	},
+	"patenting":{
+		"file" : "patenting.xlsx",
+		"name" : "name",
+		"value" : "value"		
+	},
+	"registration":{
+		"file" : "registration_fee.xlsx",
+		"name" : "name",
+		"value" : "value"		
+	}	
+	
+}
