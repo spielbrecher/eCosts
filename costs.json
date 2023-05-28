@@ -28,6 +28,51 @@
 		"file" : "registration_fee.xlsx",
 		"name" : "name",
 		"value" : "2"
-	}	
+	},	
+	"staff":{
+		"file" : "avg_staff.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},
+	"salary":{
+		"file" : "avg_salary.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},
+	"tax_moscow":{
+		"file" : "tax_moscow.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},
+	"tax_income":{
+		"file" : "tax_income.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},
+	"tax_property":{
+		"file" : "tax_property.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},
+	"tax_land":{
+		"file" : "tax_land.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},
+	"tax_personal_income":{
+		"file" : "tax_personal_income.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},
+	"tax_transport":{
+		"file" : "tax_transport.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},	
+	"tax_other":{
+		"file" : "tax_other.xlsx",
+		"name" : "name",
+		"value" : "2"
+	},	
 	
 }
